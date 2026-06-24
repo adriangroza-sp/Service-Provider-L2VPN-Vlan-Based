@@ -27,6 +27,7 @@ Validate service operation through testing and troubleshooting
 -15.9(3)M9 Cisco
 
 ## Topology 
+<img width="1792" height="653" alt="L2VPN Point to Point Topology" src="https://github.com/user-attachments/assets/f7180160-42fc-41f7-ba46-702c852f48ef" />
 
 
 
